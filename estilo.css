@@ -1,0 +1,33 @@
+body{
+	background:#d2d2c1 url('Imagens/fundo.png');
+	font:16px Arial, Helvetica, sans-serif;
+}
+a {
+	color: #4B566A;
+	text-decoration: none;
+	padding: 5px;
+}
+h1 {
+	color:#828271;
+	font-size: 1.2em;
+}
+#principal{
+	width: 900px;
+}
+#menu {
+	background: #C5C5B2;
+	padding: 18px;
+}
+#conteudo{
+	background:#E8E8D9;
+	padding: 10px;
+	
+}
+
+.centralizar {
+	text-align: center;
+}
+.img-campanha{
+	border:10px inset #c3c3ae;
+
+}
